@@ -19,10 +19,12 @@ Start with these pages to understand what Wexio is and how the workspace is mean
 - [Controlled pilot status](product/controlled-pilot-status.md) — current release boundary.
 - [Frequently asked questions](product/faq.md) — short answers for prospects.
 
-## Pilot material
+## Business and pilot material
 
-Use these pages when speaking with a pilot company.
+Use these pages when speaking with a pilot company or partner.
 
+- [Wexio value proposition](business/value-proposition.md) — why Wexio exists and what value a pilot should test.
+- [Pilot conversation guide](business/pilot-conversation-guide.md) — questions to ask a company before a pilot.
 - [Controlled pilot value](pilot/pilot-value.md) — what a pilot should prove.
 - [Pilot evaluation guide](pilot/evaluation-guide.md) — how to evaluate Wexio with real users and real tasks.
 
