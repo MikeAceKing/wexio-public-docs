@@ -1,22 +1,19 @@
 # Data processing and DPA information
 
-Wexio processes its own public-website, commercial-contact, security, and account-administration data as a controller where applicable.
+Updated: 2026-07-04
 
-For customer workspace data, Wexio may act as a processor on behalf of a business customer, depending on the service and contract. Roles must be assessed per processing activity rather than assumed globally.
+This page is an informational template.
 
-## Contractual DPA
+## Scope
 
-A customer-specific data-processing agreement may define:
+Public website, pilot, and customer workspace contexts may require different data-processing roles and contract terms.
 
-- subject matter and processing duration;
-- data categories and data-subject groups;
-- documented customer instructions;
-- confidentiality and security measures;
-- subprocessors;
-- assistance with rights and incidents;
-- deletion or return at contract end;
-- audit and transfer provisions.
+## Customer workspace context
 
-A reviewed DPA is available on request when contractually required. Current subprocessor, hosting-location, retention, and transfer details are TODO items to confirm in the applicable agreement.
+When Wexio processes workspace information for a customer, the applicable role and obligations must be defined in the signed agreement.
 
-This page is informational and is not legal advice.
+## Review required
+
+This page must be reviewed before unrestricted commercial rollout.
+
+Contact: admin@wexio.be
