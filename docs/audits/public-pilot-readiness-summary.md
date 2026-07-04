@@ -1,23 +1,27 @@
 # Public pilot-readiness summary
 
-Current public decision:
+Updated: 2026-07-04
 
-> Wexio is ready for selected controlled pilot demonstrations.
-> This does not authorize unrestricted public production rollout.
+## Current public decision
 
-## Sanitized gate results
+Wexio is ready for selected controlled pilot demonstrations.
 
-| Gate | Result |
-|---|---|
-| Type checking | PASS |
-| Production build | PASS |
-| Security pattern scan | PASS |
-| Database row-policy audit | PASS |
-| Runtime smoke | PASS |
-| Browser release checks | PASS |
-| Tenant A/B isolation | PASS |
-| Same-tenant Admin/SuperAdmin synchronization | PASS |
-| Private document sharing | PASS |
-| Admin archive / SuperAdmin permanent-action boundary | PASS |
+This decision allows demonstrations with selected pilot tenants and selected users. It does not allow unrestricted public production rollout.
 
-These results describe the tested release scope. They are not a certification, guarantee, or substitute for customer-specific acceptance, legal review, operational monitoring, or provider proof.
+## Publicly shareable passed gates
+
+- Controlled tenant-isolation proof passed.
+- Controlled same-tenant sharing proof passed for the tested scope.
+- Document audit behavior passed for the tested scope.
+- TypeScript and production build gates passed in the current release evidence.
+- Security, RLS, runtime smoke, and UI/server contract gates passed in the current release evidence.
+
+## Public limitations
+
+- Wider public rollout remains gated.
+- Some advanced module workflows still need more role or production proof.
+- External provider operations require separate configuration and evidence.
+
+## Safe claim
+
+Safe public wording: Wexio is ready for controlled pilot demonstrations with selected companies.
