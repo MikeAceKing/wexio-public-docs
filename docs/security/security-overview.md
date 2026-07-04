@@ -1,23 +1,18 @@
 # Security overview
 
-Wexio uses layered controls to keep business workspaces separated and role-aware.
+Updated: 2026-07-04
 
-## High-level controls
+Wexio uses layered controls to keep company workspaces separated and role-aware.
 
-- Tenant isolation for company/workspace boundaries
-- Server-resolved tenant context
-- Explicit user membership
-- Role- and permission-based authorization
-- Personal, user-bound desktop profiles
-- Private documents with explicit sharing
-- Database row-level controls for sensitive records
-- Audit events for selected security-relevant actions
-- Non-destructive Admin workflows, with explicit SuperAdmin-only permanent actions
+## Public security principles
 
-Frontend visibility is an experience control, not the only security boundary. Sensitive operations are validated on the server and reinforced by database policies where applicable.
+- Company workspaces are separated.
+- Users access only what their role and permissions allow.
+- Personal desktop data belongs to one user inside one workspace.
+- Documents are private by default unless sharing is allowed.
+- Administrative and sensitive actions require controlled access.
+- Public documentation does not expose implementation details.
 
-## Public evidence boundary
+## Pilot status
 
-Public summaries report gate outcomes without exposing infrastructure configuration, proof identities, customer information, raw logs, or actionable vulnerability detail.
-
-See [Responsible disclosure](responsible-disclosure.md) to report a suspected issue.
+Current release evidence supports selected controlled pilot demonstrations. Wider rollout remains gated by additional module and provider proof.
