@@ -4,6 +4,8 @@ Updated: 2026-07-04
 
 Wexio uses a modular catalogue. Availability depends on workspace activation, role, permission, configuration, and rollout status.
 
+For a fuller business explanation, read [Detailed module landscape](module-landscape-detailed.md).
+
 ## Catalogue language
 
 - **Module**: a business capability enabled for a workspace.
@@ -26,8 +28,57 @@ The current owner-authorized rollout focus includes:
 
 External Peppol transmission remains a separate provider configuration and proof item.
 
-## Wider module families
+## Workspace foundation
 
-The wider Wexio repository contains or describes business areas such as users and access, documents, workflow, CRM, clients, products, projects, support, analytics, reports, inventory, logistics, and provider operations.
+- Users and access
+- Desktop workspace
+- Widgets and shortcuts
+- Settings
+- Documents
+- Workflow
+- Projects
+- Tasks
 
-Presence in the wider platform does not mean every module is enabled for every pilot tenant.
+## Commercial modules
+
+- CRM
+- Clients
+- Sales
+- Offers
+- Products
+- Contracts
+- Marketing
+
+## Operational modules
+
+- Support
+- Assets
+- Organization
+- Inventory
+- Warehouse
+- Purchasing
+- Logistics
+- Manufacturing
+- Production
+- Quality
+
+## People and finance modules
+
+- HR
+- Time Tracking
+- Finance
+- Invoicing
+- Analytics
+- Reports
+- Compliance
+
+## Provider and system operations
+
+- Provider administration
+- System setup
+- API management
+- Directory-oriented integrations
+
+## Important rule
+
+Presence in the wider Wexio platform does not mean every module is enabled for every pilot tenant. A pilot should select modules according to real business value.
