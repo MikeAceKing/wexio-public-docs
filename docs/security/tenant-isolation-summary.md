@@ -1,17 +1,21 @@
 # Tenant-isolation summary
 
-Wexio completed live two-way tenant-isolation proof using two controlled, non-customer workspaces and separate users.
+Updated: 2026-07-04
 
-The proof covered representative workspace surfaces including:
+Wexio completed a live two-way tenant-isolation proof using two controlled non-customer workspaces and separate users.
 
-- personal desktops;
-- modules and navigation;
-- widgets and settings;
-- profiles and tenant users;
-- private documents.
+The public result is:
 
-Own-tenant requests returned the expected scoped data. Cross-tenant requests were denied or returned no rows under the relevant database policies. Unique proof markers did not cross the tenant boundary.
+> Live tenant isolation proven for the tested workspace surfaces.
 
-A separate same-tenant proof confirmed that a private personal document was invisible to another user until explicitly shared.
+## Public scope
 
-No customer tenant was used. This public summary intentionally omits proof identifiers, session material, raw requests, and internal security findings.
+The proof covered representative areas such as workspace loading, module navigation, settings, profiles, users, widgets, and private documents.
+
+## Public boundary
+
+This public summary does not include proof identities, environment details, access material, internal markers, or raw logs.
+
+## Current decision
+
+The result supports selected controlled pilot demonstrations. It does not authorize unrestricted public production rollout.
