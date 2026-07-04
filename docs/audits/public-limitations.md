@@ -1,11 +1,24 @@
 # Public limitations
 
-- Unrestricted public production rollout is not yet authorized.
-- Mollie is not configured.
-- External Peppol provider transmission is not provider-proven.
-- Some advanced module workflows require further role- and module-specific proof.
-- Pilot availability depends on selected users, modules, data, onboarding, and support scope.
-- Legal notice, privacy, cookie, terms, and data-processing templates require professional review and completion.
-- Hosting, subprocessors, retention, service levels, backup, and support commitments must be confirmed contractually.
+Updated: 2026-07-04
 
-Wexio does not claim that every module is complete or that it fully replaces every existing business system.
+The current Wexio public status is controlled pilot demonstration readiness.
+
+## Current limits
+
+- Unrestricted public production rollout is not yet authorized.
+- Module availability depends on pilot scope, activation, role, permission, configuration, and release status.
+- Advanced module workflows may require additional proof before being presented as production-ready.
+- External provider operations remain separate configuration and proof items.
+- Legal templates require professional review before final commercial use.
+
+## Safe product wording
+
+Use controlled and accurate language:
+
+- ready for selected controlled pilot demonstrations;
+- live-proven for tested isolation boundaries;
+- modular workspace under active rollout;
+- provider-dependent workflows require separate setup.
+
+Avoid absolute claims such as fully production-ready, every module live, or all providers configured.
