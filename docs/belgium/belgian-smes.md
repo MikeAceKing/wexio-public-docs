@@ -1,23 +1,26 @@
 # Wexio for Belgian SMEs
 
-Wexio is built from Belgium and designed around the practical needs of Belgian and Benelux SMEs.
+Updated: 2026-07-04
 
-## Local operating context
+Wexio is built from Belgium and aimed at the practical needs of Belgian and Benelux SMEs.
 
-Belgian businesses often work across French, Dutch, and English. They also need clear document ownership, controlled access, operational workflows, invoicing context, and collaboration between internal and external participants.
+## Business context
 
-Wexio aims to bring those activities into one tenant-scoped workspace while keeping each internal user's desktop personal.
+Many SMEs work with separate tools for clients, documents, planning, finance, staff, suppliers, messages, and reporting.
 
-## Controlled adoption
+Wexio aims to reduce this fragmentation by giving companies one business workspace for selected operational modules.
 
-A Belgian pilot starts with a narrow operational problem, selected users, selected modules, and measurable outcomes. Regulatory, accounting, tax, labour, and contractual questions remain subject to qualified professional advice.
+## Pilot fit
 
-## Language direction
+A controlled pilot is suitable when a company wants to validate:
 
-Wexio is designed for FR / NL / EN use. Translation completeness must be confirmed for each pilot surface.
+- daily usefulness;
+- user adoption;
+- module fit;
+- document and workflow organization;
+- role-based access;
+- practical value before wider rollout.
 
-## Reference
+## Current status
 
-- [finance&invest.brussels — Preparing a funding request](https://finance.brussels/preparer-votre-dossier/)
-
-This page is informational and is not legal, tax, accounting, or funding advice.
+Wexio is ready for selected controlled pilot demonstrations only.
