@@ -1,15 +1,16 @@
 # Responsible disclosure
 
+Updated: 2026-07-04
+
 Report suspected Wexio security issues privately to `admin@wexio.be`.
 
 Please include:
 
-- the affected public surface;
-- a concise description;
-- safe reproduction conditions;
-- expected and observed behaviour;
-- potential impact.
+- affected area;
+- clear description;
+- expected result;
+- actual result;
+- steps to reproduce when safe;
+- screenshots or logs when they do not contain private data.
 
-Do not access customer data, disrupt service, use social engineering, publish unverified claims, or retain personal information. Allow reasonable time for acknowledgement, assessment, remediation, and coordinated disclosure.
-
-No bug-bounty payment or safe-harbour programme is promised by this document. Any such arrangement requires separate written confirmation.
+Please do not publish sensitive security details in public issues.
