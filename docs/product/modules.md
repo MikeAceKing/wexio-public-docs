@@ -1,26 +1,33 @@
 # Product modules
 
-Wexio uses a modular catalogue. Availability depends on tenant activation, role, permission, configuration, and rollout status.
+Updated: 2026-07-04
 
-## Workspace foundation
+Wexio uses a modular catalogue. Availability depends on workspace activation, role, permission, configuration, and rollout status.
 
-- Personal DesktopShell
-- Users and access
-- Organization and tenant settings
-- Modules, widgets, and shortcuts
-- Documents and files
-- Workflow and projects
+## Catalogue language
 
-## Business areas represented
+- **Module**: a business capability enabled for a workspace.
+- **App**: a full screen or window used inside a module.
+- **Tool**: a system utility such as settings or file navigation.
+- **Widget**: a small desktop card that can show information or shortcuts.
+- **Shortcut**: a link to an internal or external destination. A shortcut does not enable access by itself.
+- **Provider app**: a Wexio administration surface separated from normal tenant workspaces.
+- **Unavailable module**: a module that exists conceptually or technically but is not enabled, allowed, or configured for the current workspace.
 
-- Clients and CRM
-- Products and operational catalogues
-- Time and people workflows
-- Finance and invoicing surfaces
-- Support and reporting
+## Active pilot focus
 
-This list describes product areas, not a promise that every area is enabled or fully validated for every tenant.
+The current owner-authorized rollout focus includes:
 
-## Provider-dependent areas
+- Time Tracking
+- HR
+- Finance
+- Invoicing
+- Peppol as an internal Wexio module
 
-Mollie is not configured. External Peppol provider transmission is not yet provider-proven. Peppol may be described only as an internal Wexio module until external provider proof exists.
+External Peppol transmission remains a separate provider configuration and proof item.
+
+## Wider module families
+
+The wider Wexio repository contains or describes business areas such as users and access, documents, workflow, CRM, clients, products, projects, support, analytics, reports, inventory, logistics, and provider operations.
+
+Presence in the wider platform does not mean every module is enabled for every pilot tenant.
