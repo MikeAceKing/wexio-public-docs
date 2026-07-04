@@ -1,16 +1,24 @@
 # Public test summary
 
-Wexio applies automated and live verification across several layers:
+Updated: 2026-07-04
 
-- TypeScript and production build checks
-- Server and user-interface contract tests
-- Tenant and role authorization contracts
-- Database row-policy coverage
-- Runtime and browser smoke checks
-- Live two-tenant isolation proof
-- Same-tenant synchronization and explicit document-sharing proof
-- Admin non-destructive and SuperAdmin explicit permanent-action proof
+Wexio uses several verification layers before a status can be described as ready for controlled pilot demonstrations.
 
-Detailed test source, raw logs, proof identities, infrastructure information, and internal attack-surface notes remain private.
+## Public test categories
 
-A passing test suite supports a controlled pilot decision; it does not make every module or external provider production-proven.
+- TypeScript checks
+- Production build checks
+- Security scans
+- Tenant-isolation checks
+- RLS and access-boundary checks
+- Runtime smoke checks
+- UI and server contract checks
+- Browser automation checks
+
+## Public result
+
+The current release evidence supports controlled pilot demonstrations.
+
+## Boundary
+
+This page is a summary. It does not publish internal test scripts, proof users, proof workspace details, runtime URLs, or raw logs.
