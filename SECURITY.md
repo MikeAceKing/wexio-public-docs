@@ -1,13 +1,22 @@
 # Security
 
-This repository contains sanitized public documentation only. It does not contain the Wexio runtime, infrastructure configuration, customer information, authentication material, or raw vulnerability details.
+Updated: 2026-07-04
 
-To report a suspected security issue, contact `admin@wexio.be`.
+This repository contains public Wexio documentation.
 
-Please do not publish vulnerability details before Wexio has acknowledged and assessed the report. Include a concise description, affected public surface, reproduction conditions, and potential impact without including third-party personal data.
+To report a suspected security issue, contact `admin@wexio.be` privately.
 
-See also:
+Please do not publish sensitive security reports in public issues.
 
-- [Security overview](docs/security/security-overview.md)
-- [Responsible disclosure](docs/security/responsible-disclosure.md)
-- [Tenant-isolation summary](docs/security/tenant-isolation-summary.md)
+## Priority areas
+
+- workspace separation;
+- authentication and role behavior;
+- document access;
+- administrative actions;
+- provider configuration;
+- public documentation accuracy.
+
+## Public boundary
+
+This repository does not publish internal proof details or operational evidence.
