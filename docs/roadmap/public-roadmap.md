@@ -1,27 +1,34 @@
 # Public roadmap
 
+Updated: 2026-07-04
+
 This roadmap is directional and does not create a delivery commitment.
 
 ## 1. Controlled pilot demonstrations
 
-Validate onboarding, personal workspaces, role boundaries, selected modules, documents, and workflows with non-customer proof environments and selected pilot users.
+Validate Wexio with selected companies and selected users.
 
-## 2. Selected paid pilots
+Focus:
 
-Agree written scope, support, data-processing terms, success criteria, and commercial conditions with selected Belgian SMEs.
+- real daily usefulness;
+- workspace clarity;
+- role fit;
+- document and workflow organization;
+- module value;
+- support and onboarding feedback.
 
-## 3. Security and operational hardening
+## 2. Core module validation
 
-Repeat tenant and role proofs after sensitive changes. Improve monitoring, support procedures, documentation, backup evidence, and customer acceptance checks.
+Continue validating active pilot modules such as time tracking, HR, finance, invoicing, and internal Peppol surfaces.
 
-## 4. Legal and policy completion
+## 3. Provider configuration
 
-Complete company details, legal review, privacy records, retention schedules, subprocessors, service terms, and data-processing agreements.
+Configure and prove provider-dependent workflows only when credentials, contracts, and safe test conditions are available.
 
-## 5. Provider configuration
+## 4. Wider rollout preparation
 
-Configure and separately prove external services only when operationally required. Mollie and external Peppol transmission remain outside current public proof.
+Prepare wider rollout only after remaining role, module, provider, legal, and operational gates are satisfied.
 
-## 6. Broader rollout
+## 5. Long-term direction
 
-Consider broader availability only after technical, security, legal, support, and commercial gates are satisfied.
+Expand Wexio as a modular business workspace for SMEs that need one connected environment instead of many disconnected tools.
