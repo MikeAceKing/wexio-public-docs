@@ -1,0 +1,9 @@
+{
+  "name": "wexio-public-docs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Sanitized public documentation for Wexio and SBCOS by Wexio",
+  "scripts": {
+    "check:public-docs": "node scripts/check-public-docs.mjs"
+  }
+}
