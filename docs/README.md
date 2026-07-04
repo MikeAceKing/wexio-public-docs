@@ -2,20 +2,37 @@
 
 Updated: 2026-07-04
 
-This repository contains public, sanitized documentation for Wexio and SBCOS by Wexio.
+This repository contains public documentation for Wexio and SBCOS by Wexio. It is written for pilot companies, advisors, partners, and reviewers who need to understand the product without reading the internal implementation repository.
 
-## Start here
+## Product explanation
 
-- [What is Wexio?](product/what-is-wexio.md)
-- [How Wexio works](product/how-it-works.md)
-- [Product modules](product/modules.md)
-- [Controlled pilot status](product/controlled-pilot-status.md)
-- [Frequently asked questions](product/faq.md)
+Start with these pages to understand what Wexio is and how the workspace is meant to work.
+
+- [What is Wexio?](product/what-is-wexio.md) — product definition and current boundary.
+- [Platform explained](product/platform-explained.md) — simple overview of the Wexio platform layers.
+- [Workspace experience](product/workspace-experience.md) — how users work with desktops, modules, widgets, shortcuts, documents, and dashboards.
+- [How Wexio works](product/how-it-works.md) — basic flow from workspace to users, modules, documents, and pilot validation.
+- [Roles and access](product/roles-and-access.md) — how different user types should receive different work surfaces.
+- [Product modules](product/modules.md) — current module catalogue summary.
+- [Detailed module landscape](product/module-landscape-detailed.md) — business-friendly explanation of module families.
+- [Public use cases](product/use-cases.md) — practical examples for evaluating Wexio.
+- [Controlled pilot status](product/controlled-pilot-status.md) — current release boundary.
+- [Frequently asked questions](product/faq.md) — short answers for prospects.
+
+## Pilot material
+
+Use these pages when speaking with a pilot company.
+
+- [Controlled pilot value](pilot/pilot-value.md) — what a pilot should prove.
+- [Pilot evaluation guide](pilot/evaluation-guide.md) — how to evaluate Wexio with real users and real tasks.
 
 ## Trust and status
 
+These pages explain the current proof level without publishing internal evidence.
+
 - [Security overview](security/security-overview.md)
 - [Tenant-isolation summary](security/tenant-isolation-summary.md)
+- [Responsible disclosure](security/responsible-disclosure.md)
 - [Public pilot-readiness summary](audits/public-pilot-readiness-summary.md)
 - [Public test summary](audits/public-test-summary.md)
 - [Public limitations](audits/public-limitations.md)
@@ -36,4 +53,4 @@ This repository contains public, sanitized documentation for Wexio and SBCOS by 
 
 ## Boundary
 
-This public repository is informational. It does not replace private release evidence, customer contracts, legal review, or provider onboarding documents.
+The public documentation explains Wexio in product and pilot language. It does not replace private release evidence, customer contracts, legal review, provider onboarding, or technical implementation records.
