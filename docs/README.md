@@ -25,6 +25,8 @@ Use these pages when speaking with a pilot company or partner.
 
 - [Wexio value proposition](business/value-proposition.md) — why Wexio exists and what value a pilot should test.
 - [Pilot conversation guide](business/pilot-conversation-guide.md) — questions to ask a company before a pilot.
+- [Pilot outreach message](marketing/pilot-outreach.md) — public outreach wording for selected pilot conversations.
+- [Investor summary](business/investor-summary.md) — non-financial overview for early partner or investor conversations.
 - [Controlled pilot value](pilot/pilot-value.md) — what a pilot should prove.
 - [Pilot evaluation guide](pilot/evaluation-guide.md) — how to evaluate Wexio with real users and real tasks.
 
