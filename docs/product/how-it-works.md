@@ -1,29 +1,29 @@
 # How Wexio works
 
-## 1. Create the company workspace
+Updated: 2026-07-04
 
-A controlled tenant workspace establishes the company boundary. Pilot scope and the initial operational objective are agreed before business data is introduced.
+Wexio works around a company workspace.
 
-## 2. Invite users and assign roles
+## 1. Company workspace
 
-Users receive explicit memberships and roles. The tenant defines the business boundary; the user defines identity; roles and permissions define allowed actions.
+A selected company receives a controlled workspace for the agreed pilot scope.
 
-## 3. Enable the required modules
+## 2. Users and roles
 
-Only selected modules are enabled for the tenant. A module still remains filtered by role and permission.
+Users receive access according to their role and the modules enabled for the workspace.
 
-## 4. Personalize each workspace
+## 3. Modules
 
-Internal workspace users receive a personal DesktopShell experience. Layout, widgets, shortcuts, and preferences are user-bound while business records remain tenant-bound.
+Modules can cover business areas such as documents, users, clients, workflow, time tracking, HR, finance, invoicing, and other operational tools when enabled.
 
-## 5. Use documents and workflows
+## 4. Personal workspace
 
-Private documents remain personal until they are explicitly shared. Tenant business records can move through controlled operational workflows.
+Workspace users can have a personal desktop with layout, widgets, shortcuts, and preferences.
 
-## 6. Collect pilot feedback
+## 5. Documents and workflows
 
-Pilot users validate usability, role boundaries, data quality, and the value of each enabled workflow.
+Documents and operational work stay linked to the workspace. Sharing is explicit and controlled.
 
-## 7. Validate broader scope
+## 6. Pilot boundary
 
-Security, operational support, legal documents, module coverage, and provider configuration are reviewed before any broader rollout.
+The controlled pilot is used to validate real business usefulness, role behavior, user experience, and module fit before wider rollout.
