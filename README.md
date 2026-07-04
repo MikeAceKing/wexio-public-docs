@@ -14,25 +14,13 @@ SBCOS brings users, roles, modules, personal workspaces, documents, operational 
 ## Documentation
 
 - [Documentation index](docs/README.md)
-- [What is Wexio?](docs/product/what-is-wexio.md)
-- [How Wexio works](docs/product/how-it-works.md)
-- [Product modules](docs/product/modules.md)
-- [FAQ](docs/product/faq.md)
-- [Controlled pilot status](docs/product/controlled-pilot-status.md)
-- [Wexio for Belgian SMEs](docs/belgium/belgian-smes.md)
-- [Belgian e-invoicing context](docs/belgium/e-invoicing-context.md)
-- [Security overview](docs/security/security-overview.md)
-- [Tenant-isolation summary](docs/security/tenant-isolation-summary.md)
-- [Responsible disclosure](docs/security/responsible-disclosure.md)
-- [Public readiness summary](docs/audits/public-pilot-readiness-summary.md)
-- [Public test summary](docs/audits/public-test-summary.md)
-- [Public limitations](docs/audits/public-limitations.md)
-- [Public roadmap](docs/roadmap/public-roadmap.md)
-- [Legal notice](docs/legal/legal-notice.md)
-- [Privacy policy](docs/legal/privacy-policy.md)
-- [Cookie policy](docs/legal/cookie-policy.md)
-- [Terms of use](docs/legal/terms-of-use.md)
-- [Data processing](docs/legal/data-processing.md)
+- [Platform explained](docs/product/platform-explained.md)
+- [Workspace experience](docs/product/workspace-experience.md)
+- [Roles and access](docs/product/roles-and-access.md)
+- [Detailed module landscape](docs/product/module-landscape-detailed.md)
+- [Public use cases](docs/product/use-cases.md)
+- [Controlled pilot value](docs/pilot/pilot-value.md)
+- [Pilot evaluation guide](docs/pilot/evaluation-guide.md)
 
 ## Legal status
 
