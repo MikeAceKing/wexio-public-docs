@@ -28,3 +28,4 @@ This repository contains public documentation for Wexio and SBCOS by Wexio.
 
 - [Public database overview](database/public-database-overview.md)
 - [Public documentation version](version/public-docs-version.md)
+- [Public readiness gate](audits/public-readiness-gate-20260704.md)
